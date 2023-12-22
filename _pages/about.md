@@ -8,19 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-# Short Bio
 
 Welcome! I'm now a fourth year undergraduate student from [School of CSE](https://cse.csu.edu.cn/), [Central South University](https://www.csu.edu.cn/). I am thrilled to share that I will be pursuing my Ph.D. studies at [School of CS](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/).
  <!-- My research interest includes AI for Industrial Internet of Things(IIoT), AI for Science, Mobile Crowdsensing, and Data Mining. -->
 
+## Short Bio
+
 During my undergraduate studies, I majored in Data Science and Big Data Technology, consistently **ranking $1^{st}$** in both the GPA and comprehensive assessment **for all the 3 consecutive years**. Over this period, I was honored with the **National Scholarship** (for all the 3 consecutive years), **Annual First-Class Scholarship** (for all the 3 consecutive years), and various **corporate scholarships**. The corporate scholarships encompass the 
 Ministry of Education-Huawei "Intelligent Base" Scholarship, Guangyun Technology Scholarship, Wanxing Technology Scholarship, and Huiding Technology Scholarship, etc.
 
- Additionally, I have actively taken on leadership responsibilities, holding diverse roles such as **Director of the Information Technology Center** within [Party Committee Student Work Department](https://xgw.csu.edu.cn/index.htm), **Technical Advisor** at the [iOS Club](https://blog.csdn.net/cyl_csdn_1/article/details/110354355), **Commissary in Charge of Studies**, **Assistant Class Advisor**, and **Auxiliary Volunteer** for academic support initiatives.
+Additionally, I have actively taken on leadership responsibilities, holding diverse roles such as **Director of the Information Technology Center** within [Party Committee Student Work Department](https://xgw.csu.edu.cn/index.htm), **Technical Advisor** at the [iOS Club](https://blog.csdn.net/cyl_csdn_1/article/details/110354355), **Commissary in Charge of Studies**, **Assistant Class Advisor**, and **Auxiliary Volunteer** for academic support initiatives.
 
 My research interests encompass AI for Industrial Internet of Things (IIoT), AI for Science, Mobile Crowdsensing, and Data Mining. I am passionate about contributing to advancements in these fields and look forward to the exciting challenges and opportunities that my Ph.D. journey at Peking University will bring.
 
-# Education
+## Education
 
 - **B.S in Data Science and Big Data Technology**
   - [School of Computer Science and Engineering](https://cse.csu.edu.cn/), [Central South University](https://www.csu.edu.cn/)
@@ -31,7 +32,7 @@ My research interests encompass AI for Industrial Internet of Things (IIoT), AI 
   - 2024.9-
 
 
-# Honors and Awards
+## Honors and Awards
 
 - **National Level:**
   - National Scholarship (￥8000, for all the 3 consecutive years)
