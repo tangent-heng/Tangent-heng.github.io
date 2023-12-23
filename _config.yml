@@ -80,13 +80,12 @@ analytics:
 
 # Site Author
 author:
-  # name             : "Jianheng Tang (唐健恒)"
   name             : "Jianheng Tang"
   avatar           : "myPhoto.png"
   bio              : "A cute student"
   location         : "China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "3082813938@qq.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
